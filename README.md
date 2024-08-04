@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 
+# About me
+
+- Interests:Investment, Materials Engineering😄
+- Skills:Data analysis, Polymer and Python
+- Hobbies:Running🏃, Movie🎥, Snow Board🏂
 
 <!--
 **MasterZIII/MasterZIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
